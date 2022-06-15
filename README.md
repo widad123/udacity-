@@ -1,5 +1,9 @@
 # ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
+ERC-721 Token Name : WIKA
+ERC-721 Token Symbol : WK
+ “Token Address” on the Rinkeby Network : 0xAa1db391e64415Fe36a78E526Cd8955662373d03
+ 
 
 ### ToDo
 This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
@@ -7,6 +11,9 @@ This Starter Code has already implemented the functionalities you implemented in
 
 
 ### Dependencies
+"openzeppelin-solidity": "2.3",
+Truffle v5.4.23 - a development framework for Ethereum
+
 For this project, you will need to have:
 1. **Node and NPM** installed - NPM is distributed with [Node.js](https://www.npmjs.com/get-npm)
 ```bash
